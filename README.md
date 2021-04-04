@@ -1,4 +1,3 @@
 <h1 align="center">Hi I'm Thomas Hutchinson. I'm a frontend developer</h1>
 
-![alt text](./carbon.png)
-
+<img src="./githubprofile.png" alt="Something" style="border-radius: 20px; margin-top:16px"/>
